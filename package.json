@@ -1,0 +1,29 @@
+{
+  "name": "node-qp",
+  "version": "1.0.0",
+  "description": "node version of quickplayer + ES",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SeungkeunHyun/node-qp.git"
+  },
+  "keywords": [
+    "node",
+    "podcast",
+    "elastic",
+    "quickplayer"
+  ],
+  "author": "Sk Hyun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeungkeunHyun/node-qp/issues"
+  },
+  "homepage": "https://github.com/SeungkeunHyun/node-qp#readme",
+  "dependencies": {
+    "crawler": "^1.2.2",
+    "express": "^4.17.1"
+  }
+}
